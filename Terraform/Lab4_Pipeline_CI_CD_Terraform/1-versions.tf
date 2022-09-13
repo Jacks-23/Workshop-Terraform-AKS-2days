@@ -20,7 +20,7 @@ terraform {
         
   }
   
-  required_providers {
+  reqired_providers {
     azurerm = {
       # The "hashicorp" namespace is the new home for the HashiCorp-maintained
       # provider plugins.
