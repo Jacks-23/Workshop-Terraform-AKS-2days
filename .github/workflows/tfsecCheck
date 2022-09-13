@@ -1,6 +1,6 @@
 name: tfsec
 on:
-  workflow-dispatch
+  workflow-dispatch:
 jobs:
   tfsec:
     name: tfsec sarif report
